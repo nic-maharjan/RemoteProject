@@ -1,1 +1,6 @@
 This is Common File
+
+Found in common file are listed below:
+1) dropdown information.
+2) user information
+// User2............
