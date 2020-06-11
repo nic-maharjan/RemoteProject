@@ -1,6 +1,12 @@
-function GetApi(){}
+function GetApi(){
 
-function Authenticate(){}
+    --Url is get from this function. //User2
+}
+
+function Authenticate(){
+
+    --Authenticates valid user. //User2
+}
 
 function GetToken() {
     
